@@ -1,3 +1,16 @@
+```
+교육원 : 구디아카데미
+강 사 : 김대기
+과정명 : 클라우드 활용 자바개발자 양성과정
+기 간 :  2024.12 ~ 2025.7
+프로젝트 : Middle Project
+주 제 : 영화 예매 및 커뮤니티 서비스
+팀 원 : 김채윤 양은영 이민열
+GitHub URL : https://github.com/dirokim/aka_final
+최종 Branch : Mater
+```
+
+
 # 🎥 Movieplex
  영화 예매 및 커뮤니티 사이트
 
