@@ -7,7 +7,7 @@
 주 제 : 영화 예매 및 커뮤니티 서비스
 팀 원 : 김채윤 양은영 이민열
 GitHub URL : https://github.com/dirokim/aka_final
-최종 Branch : Mater
+최종 Branch : main
 ```
 
 
